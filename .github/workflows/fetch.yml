@@ -39,7 +39,7 @@ jobs:
         repository: rtian002/abc
         token: ${{secrets.ABC_ACCESS_TOKEN}}
         path: abc
-    - name: Copy File
+    - name: 复制文件
       run: |
         cp list.txt abc/3
         cd abc && git status
@@ -48,7 +48,7 @@ jobs:
       with:
         author_name: rtian002
         author_email: rtian002@gmail.com
-        message: GitHub Actions Synac
+        message: Commit From Repo:AutoMergePublicNodes
         add: '3 --force'
         cwd: "./abc/"
         fetch: false
