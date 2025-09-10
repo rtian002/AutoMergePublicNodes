@@ -48,7 +48,7 @@ jobs:
       with:
         author_name: rtian002
         author_email: rtian002@gmail.com
-        message: Commit From Repo:AutoMergePublicNodes
+        message: "From: AutoMergePublicNodes"
         add: '3 --force'
         cwd: "./abc/"
         fetch: false
