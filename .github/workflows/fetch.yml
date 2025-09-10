@@ -41,3 +41,23 @@ jobs:
         add: '["list*","snippets/"]'
         fetch: false
 
+    - name: 同步仓库
+      uses: actions/checkout@v4 
+      with:
+        repository: rtian002/abc
+        token: ${{secrets.ABC_ACCESS_TOKEN}}
+        path: abc
+    - name: Copy File
+      run: |
+        cp list.txt abc/1
+        cd abc && git status
+    - name: 同步推送
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: rtian002
+        author_email: rtian002@gmail.com
+        message: GitHub Actions Synac
+        add: '1 --force'
+        cwd: "./abc/"
+        fetch: false
+
