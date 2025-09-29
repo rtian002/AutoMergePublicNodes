@@ -1,5 +1,13 @@
 proxies:
-- name: 9|🇩🇪@FreakConfig
+- name: 9|@Daily_Configs
+  password: 1a8588b6-9700-4ff6-80e6-64e18f2e5336
+  port: 43836
+  server: de1.jueduibupao.top
+  skip-cert-verify: true
+  sni: de1.jueduibupao.top
+  tls: false
+  type: hysteria2
+- name: 9|@FreakConfig
   password: 20050105zhu
   port: 51541
   server: 204.44.110.129
@@ -7,7 +15,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 9|rya
+- name: 9|🇩🇪@FreakConfig
   password: 2b67ONZROv+fRVMxB94BSw==
   port: 443
   server: 5.231.70.79
@@ -111,6 +119,16 @@ proxies:
   sni: drhystuichdfy.samanidempire.org
   tls: false
   type: hysteria2
+- name: '9|@Daily_Configs #1'
+  obfs: salamander
+  obfs-password: GdQ4bgvT8RFwuWi2
+  password: 8864aa9f-7517-4fd5-aef1-32050eb3095d
+  port: 30205
+  server: 185.92.220.240
+  skip-cert-verify: true
+  sni: net2025.afsharidempire.uk
+  tls: false
+  type: hysteria2
 - name: '9|All-@IRAN_V2RAY1 #1'
   obfs: salamander
   obfs-password: qBbeISsJ8AK48fZW
@@ -141,7 +159,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '9|r♡ya #1'
+- name: '9|🇳🇱@FreakConfig #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -171,6 +189,95 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
+- name: '9|@Daily_Configs #2'
+  obfs: salamander
+  obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
+  password: bsnnajjbjsjnjjjbbbsbjajhjnnwjnbudn
+  port: 443
+  server: 103.249.133.79
+  skip-cert-verify: true
+  sni: microsoft.com
+  tls: false
+  type: hysteria2
+- name: 9|@Daily_Configs <== کانا تلگرام
+  obfs: salamander
+  obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
+  password: daily_configs
+  port: 443
+  server: 95.181.174.31
+  skip-cert-verify: true
+  sni: slack.com
+  tls: false
+  type: hysteria2
+- name: '9|@Daily_Configs <== کانال تلگرا... #1'
+  obfs: salamander
+  obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
+  password: daily_configs
+  port: 443
+  server: 95.181.174.31
+  skip-cert-verify: true
+  sni: slack.com
+  tls: false
+  type: hysteria2
+- name: '9|@Daily_Configs #3'
+  obfs: salamander
+  obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
+  password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs
+  port: 443
+  server: 95.181.174.31
+  skip-cert-verify: true
+  sni: slack.com
+  tls: false
+  type: hysteria2
+- name: '9|@Daily_Configs #5'
+  obfs: salamander
+  obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
+  password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs
+  port: 443
+  server: 103.249.133.79
+  skip-cert-verify: true
+  sni: microsoft.com
+  tls: false
+  type: hysteria2
+- name: '9|@Daily_Configs #6'
+  obfs: salamander
+  obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
+  password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_
+  port: 443
+  server: 103.249.133.79
+  skip-cert-verify: true
+  sni: microsoft.com
+  tls: false
+  type: hysteria2
+- name: '9|@Daily_Configs #7'
+  obfs: salamander
+  obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
+  password: dailyconfigschannel
+  port: 443
+  server: 103.249.133.79
+  skip-cert-verify: true
+  sni: microsoft.com
+  tls: false
+  type: hysteria2
+- name: '9|@Daily_Configs #8'
+  obfs: salamander
+  obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
+  password: dailyconfigsdailyconfigsdailyconfigsdailyconfigs
+  port: 443
+  server: 95.181.174.31
+  skip-cert-verify: true
+  sni: slack.com
+  tls: false
+  type: hysteria2
+- name: '9|@Daily_Configs #10'
+  obfs: salamander
+  obfs-password: JBPVtqk1kMBGleBcLZ
+  password: df36ace8-640b-42bb-8169-198901af6d9e
+  port: 46129
+  server: 185.184.68.7.sslip.io
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: '9|r♡ya #2'
   password: dongtaiwang.com
   port: 5355
@@ -184,6 +291,84 @@ proxies:
   port: 25684
   server: us-nb-01.linlujs.pw
   skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: 9|@Daily_Configs == کانال تلگرام
+  obfs: salamander
+  obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
+  password: joindailyconfigs
+  port: 443
+  server: 95.181.174.31
+  skip-cert-verify: true
+  sni: slack.com
+  tls: false
+  type: hysteria2
+- name: '9|@Daily_Configs #11'
+  obfs: salamander
+  obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
+  password: joindailyconfigschanel
+  port: 443
+  server: 103.249.133.79
+  skip-cert-verify: true
+  sni: microsoft.com
+  tls: false
+  type: hysteria2
+- name: 9|@Daily_Configs IPv4
+  obfs: salamander
+  obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
+  password: kanale_dailyconfigs
+  port: 443
+  server: 95.181.174.31
+  skip-cert-verify: true
+  sni: slack.com
+  tls: false
+  type: hysteria2
+- name: 9|🇺🇲@FreakConfig
+  obfs: salamander
+  obfs-password: wcancmaocnewrivbkacmlmsvwuvdfsv
+  password: lHoYmNZmLe
+  port: 28777
+  server: pouria.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '9|🇺🇲@FreakConfig #1'
+  obfs: salamander
+  obfs-password: uvahwuicbhwabhvlhv
+  password: lHoYmNZmLe
+  port: 53713
+  server: pouria.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '9|@Daily_Configs <== کانال تلگرا... #3'
+  obfs: salamander
+  obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
+  password: mahsaamini
+  port: 443
+  server: 95.181.174.31
+  skip-cert-verify: true
+  sni: slack.com
+  tls: false
+  type: hysteria2
+- name: 9|Telegram:@Daily_Configs
+  obfs: salamander
+  obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
+  password: telegramchannel_daily_configs
+  port: 443
+  server: 95.181.174.31
+  skip-cert-verify: true
+  sni: slack.com
+  tls: false
+  type: hysteria2
+- name: '9|@Daily_Configs #12'
+  obfs: salamander
+  obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
+  password: zanzendegiazadi
+  port: 443
+  server: 95.181.174.31
+  skip-cert-verify: true
+  sni: slack.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
@@ -236,20 +421,10 @@ proxies:
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 443
-  server: 221.128.195.239
+  server: 203.198.123.174
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- alterId: 0
-  cipher: auto
-  name: 11|🇯🇵 日本|@ripaojiedian
-  port: 25980
-  server: 45.159.51.189
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 8e2c0dcf-b621-4513-8781-4c686f5d5b6d
 - name: 11,12|日本2|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
@@ -261,8 +436,8 @@ proxies:
 - name: 11,12|日本3|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
-  port: 3160
-  server: 160.16.89.176
+  port: 1802
+  server: 153.121.51.29
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
@@ -274,19 +449,29 @@ proxies:
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
+- alterId: 0
+  cipher: auto
+  name: 11|🇰🇷 韩国|@ripaojiedian
+  port: 10755
+  server: 45.94.68.13
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: a844b289-6fd7-407b-8312-d600ec2efcd4
 - name: 11,12|新加坡2|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
-  port: 449
-  server: 160.16.57.238
+  port: 3957
+  server: 160.16.87.174
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 11,12|美国|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
-  port: 1700
-  server: 160.16.87.174
+  port: 4317
+  server: 160.16.117.182
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
@@ -302,9 +487,19 @@ proxies:
   name: 11|🇻🇳 越南|@ripaojiedian
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   port: 38388
-  server: 103.186.155.28
+  server: 103.186.154.42
   tfo: false
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 11|🇮🇩 印度尼西亚|@ripaojiedian
+  port: 26144
+  server: ppy-boardv2.02ijp4uos1.download
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: aa15b97a-24b1-3a31-824a-bc52f5a15bac
 - alterId: 0
   cipher: auto
   name: 12|香港v2|@ripaojiedian
@@ -317,24 +512,34 @@ proxies:
   uuid: 93c35277-ee3f-4ab2-9d9e-462b97a8795f
 - alterId: 0
   cipher: auto
-  name: 12|日本|@ripaojiedian
-  network: tcp
-  port: '25980'
-  server: 45.159.51.189
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 8e2c0dcf-b621-4513-8781-4c686f5d5b6d
-- alterId: 0
-  cipher: auto
   name: 12|日本v2|@ripaojiedian
   network: kcp
-  port: '5106'
-  server: 47.74.14.30
+  port: '30391'
+  server: 54.168.151.169
   servername: ''
   tls: false
   type: vmess
-  uuid: 1cc84891-1657-4f71-97d0-287df565820e
+  uuid: c977388d-4550-4135-bbc6-0199daa76352
+- alterId: 0
+  cipher: auto
+  name: 12|韩国|@ripaojiedian
+  network: tcp
+  port: '10755'
+  server: 45.94.68.13
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a844b289-6fd7-407b-8312-d600ec2efcd4
+- alterId: 0
+  cipher: auto
+  name: 12|印度尼西亚|@ripaojiedian
+  network: tcp
+  port: '26144'
+  server: ppy-boardv2.02ijp4uos1.download
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: aa15b97a-24b1-3a31-824a-bc52f5a15bac
 - name: 13|AE_speednode_0001
   network: ws
   port: 2096
